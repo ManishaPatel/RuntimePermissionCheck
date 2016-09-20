@@ -1,7 +1,7 @@
 package spacemx.com.runtimepermissionchecker.interfaces;
 
 /**
- * Created by credencys on 13/9/16.
+ * Created by Maitrey Chhaya on 13/9/16.
  */
 public interface RuntimePermissionCallback {
     void onPermissionGranted();

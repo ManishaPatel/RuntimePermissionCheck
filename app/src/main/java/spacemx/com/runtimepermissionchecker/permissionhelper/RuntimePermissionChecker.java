@@ -23,7 +23,7 @@ import java.util.Map;
 import spacemx.com.runtimepermissionchecker.R;
 
 /**
- * Created by credencys on 13/9/16.
+ * Created by Maitrey Chhaya on 13/9/16.
  */
 public class RuntimePermissionChecker extends Fragment {
     public static final int MY_PERMISSIONS_REQUEST_URI = 101;
