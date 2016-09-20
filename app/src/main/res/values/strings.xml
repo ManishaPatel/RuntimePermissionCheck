@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RuntimePermissionChecker</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_fab">Use FAB to check for permissions!</string>
+
+    <string name="permission_dialog_alert">App requires permission to enable several features.</string>
+    <string name="btn_go_to_setting">Go to settings</string>
+    <string name="btn_ok">Ok</string>
+    <string name="btn_cancel">Cancel</string>
+
+    <string name="key_package">package</string>
+</resources>
